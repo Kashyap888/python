@@ -1,2 +1,1 @@
-# learning-py
-shifting from c++ to python
+Changing language and learning 
